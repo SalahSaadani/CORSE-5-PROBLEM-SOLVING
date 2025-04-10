@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CORSE 5 SOLUTION PROBLEM  5", "CORSE 5 SOLUTION PROBLEM  5\CORSE 5 SOLUTION PROBLEM  5.vcxproj", "{B8526C38-0F38-4A7F-AE35-9067FF1FD998}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8526C38-0F38-4A7F-AE35-9067FF1FD998}.Debug|x64.ActiveCfg = Debug|x64
+		{B8526C38-0F38-4A7F-AE35-9067FF1FD998}.Debug|x64.Build.0 = Debug|x64
+		{B8526C38-0F38-4A7F-AE35-9067FF1FD998}.Debug|x86.ActiveCfg = Debug|Win32
+		{B8526C38-0F38-4A7F-AE35-9067FF1FD998}.Debug|x86.Build.0 = Debug|Win32
+		{B8526C38-0F38-4A7F-AE35-9067FF1FD998}.Release|x64.ActiveCfg = Release|x64
+		{B8526C38-0F38-4A7F-AE35-9067FF1FD998}.Release|x64.Build.0 = Release|x64
+		{B8526C38-0F38-4A7F-AE35-9067FF1FD998}.Release|x86.ActiveCfg = Release|Win32
+		{B8526C38-0F38-4A7F-AE35-9067FF1FD998}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8510BC1-6433-4815-87F8-1DE5D367C225}
+	EndGlobalSection
+EndGlobal
